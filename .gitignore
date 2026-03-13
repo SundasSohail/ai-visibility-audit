@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+audit_results.json
+*.json
+.streamlit/secrets.toml
