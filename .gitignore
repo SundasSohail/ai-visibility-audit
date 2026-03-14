@@ -5,3 +5,4 @@ __pycache__/
 audit_results.json
 *.json
 .streamlit/secrets.toml
+ai_visibility_audit.py
